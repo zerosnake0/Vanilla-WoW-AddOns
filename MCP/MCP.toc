@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Master Control Program
+## Title-zhCN: MCP插件管理器
+## Author: Marc aka Saien on Hyjal (Modified by Kanshenmekan@Nostalrius PVP)
+## Author-zhCN: Kanshenmekan@Nostalrius PVP修改并汉化
+## Notes: Addon loading control after login
+## Notes-zhCN: 在登陆人物后进行插件管理 (Kanshenmekan@Nostalrius PVP修改并汉化)
+## Notes-koKR: 게임내의 애드온 관리 프로그램
+## SavedVariables: MCP_Config
+MCP.xml
