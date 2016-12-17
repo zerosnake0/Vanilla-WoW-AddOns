@@ -10,3 +10,6 @@
 [submodule "Ace3"]
 	path = Ace3
 	url = git@github.com:zerosnake0/Ace3v.git
+[submodule "LibDataBroker-1.1"]
+	path = LibDataBroker-1.1
+	url = git@github.com:zerosnake0/libdatabroker-1-1.git
